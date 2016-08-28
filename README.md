@@ -1,0 +1,1 @@
+# slush-generator-sample
